@@ -1,0 +1,21 @@
+{
+  "name": "matsuo_memo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/kznr-sny/j_memo_app.git"
+  },
+  "author": "kznr-sny",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/kznr-sny/j_memo_app/issues"
+  },
+  "homepage": "https://gitlab.com/kznr-sny/j_memo_app#README"
+}
